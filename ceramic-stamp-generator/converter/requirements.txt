@@ -3,3 +3,4 @@ shapely==2.0.6
 trimesh==4.5.3
 lxml==5.3.0
 svgpathtools==1.6.1
+mapbox-earcut
